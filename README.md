@@ -1,1 +1,2 @@
-# CalculationC
+# Calculation
+Калькулятор на c++
